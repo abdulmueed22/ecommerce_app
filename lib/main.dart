@@ -1,13 +1,17 @@
+import 'package:ecommerce_app/Admin/admin_login.dart';
 import 'package:ecommerce_app/pages/bottomnav.dart';
 import 'package:ecommerce_app/pages/login.dart';
 import 'package:ecommerce_app/pages/onboarding.dart';
 import 'package:ecommerce_app/pages/product_detail.dart';
 import 'package:ecommerce_app/pages/signup.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 import 'pages/home.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
 
@@ -19,7 +23,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'E-Commerce App',
       debugShowCheckedModeBanner: false,
-      home: SignUp(),
+      home: AdminLogin(),
     );
   }
 }
