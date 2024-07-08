@@ -1,3 +1,4 @@
+import 'package:ecommerce_app/Admin/add_product.dart';
 import 'package:ecommerce_app/Admin/admin_login.dart';
 import 'package:ecommerce_app/pages/bottomnav.dart';
 import 'package:ecommerce_app/pages/login.dart';
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'E-Commerce App',
       debugShowCheckedModeBanner: false,
-      home: AdminLogin(),
+      home: AddProduct(),
     );
   }
 }
