@@ -5,13 +5,16 @@ import 'package:ecommerce_app/pages/login.dart';
 import 'package:ecommerce_app/pages/onboarding.dart';
 import 'package:ecommerce_app/pages/product_detail.dart';
 import 'package:ecommerce_app/pages/signup.dart';
+import 'package:ecommerce_app/services/constraint.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_stripe/flutter_stripe.dart';
 
 import 'pages/home.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  Stripe.publishableKey = publishablekey;
   await Firebase.initializeApp();
   runApp(const MyApp());
 }
@@ -24,7 +27,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'E-Commerce App',
       debugShowCheckedModeBanner: false,
-      home: AddProduct(),
+      // home: SignUp(),
+      home: BottomNav(),
     );
   }
 }
+
