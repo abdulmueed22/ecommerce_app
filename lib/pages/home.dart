@@ -11,6 +11,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
+  bool search = false;
   List categories = [
     "images/headphone_icon.png",
     "images/laptop.png",
@@ -24,6 +25,23 @@ class _HomeState extends State<Home> {
     "Watch",
     "TV"
   ];
+
+  var queryResultSet=[];
+  var tempSearchStore=[];
+
+  initiateSearch(value){
+    if(value.length == 0){
+      setState(() {
+        queryResultSet = [];
+        tempSearchStore = [];
+      });
+    }
+    setState(() {
+      search = true;
+    });
+
+    var capatilizedValue = value.substring();
+  }
 
   String? name, image;
 

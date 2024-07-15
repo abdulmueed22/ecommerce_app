@@ -10,6 +10,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
 
+import 'Admin/all_orders.dart';
 import 'pages/home.dart';
 
 Future<void> main() async {
@@ -27,8 +28,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'E-Commerce App',
       debugShowCheckedModeBanner: false,
-      // home: SignUp(),
       home: BottomNav(),
+      // home: BottomNav(),
     );
   }
 }
