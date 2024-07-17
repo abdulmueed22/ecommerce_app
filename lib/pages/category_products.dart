@@ -76,8 +76,15 @@ class _CategoryProductState extends State<CategoryProduct> {
                                 width: 20,
                               ),
                               GestureDetector(
-                                onTap: (){
-                                  Navigator.push(context, MaterialPageRoute(builder: (context)=> ProductDetail(detail: ds["Detail"], image: ds["Image"], name: ds["Name"], price: ds["Price"])));
+                                onTap: () {
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (context) => ProductDetail(
+                                              detail: ds["Detail"],
+                                              image: ds["Image"],
+                                              name: ds["Name"],
+                                              price: ds["Price"])));
                                 },
                                 child: Container(
                                     padding: EdgeInsets.all(5),

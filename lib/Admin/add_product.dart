@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:ecommerce_app/services/database.dart';
 import 'package:ecommerce_app/widgets/support_widget.dart';
 import 'package:firebase_storage/firebase_storage.dart';
