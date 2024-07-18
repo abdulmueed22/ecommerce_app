@@ -65,6 +65,17 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 
 <img src="https://github.com/user-attachments/assets/b6867589-9775-481f-8d5b-dacea02e00ea" alt="Screenshot 2024-07-18-23-38-16-66_18dc463cf66cf9312960845e75316458" width="200" height="400" />
 
+**Home page:**
+
+<img src="https://github.com/user-attachments/assets/e1c4478b-c279-435c-8779-f9ec61fe7d59" alt="WhatsApp Image 2024-07-18 at 11 41 24 PM" width="200" height="400" />
+
+
+**Product page:**
+
+
+<img src="https://github.com/user-attachments/assets/ddbc9c2a-30c8-4b65-b6d6-d90cecaf9ab5" alt="Screenshot 2024-07-18-23-35-04-71_18dc463cf66cf9312960845e75316458" width="200" height="400" />
+
+
 ---
 
 Thank you for checking out my project! 🚀
