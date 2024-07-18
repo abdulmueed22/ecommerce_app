@@ -60,7 +60,10 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 - **Customer Interaction:** Customers can browse, search, and place orders. They can also manage their profiles and make secure payments.
 
 ### Screenshots
-Screenshots will be added later.
+**Onboarding page:**
+
+
+<img src="https://github.com/user-attachments/assets/b6867589-9775-481f-8d5b-dacea02e00ea" alt="Screenshot 2024-07-18-23-38-16-66_18dc463cf66cf9312960845e75316458" width="200" height="400" />
 
 ---
 
