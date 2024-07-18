@@ -39,14 +39,14 @@ class _SignUpState extends State<SignUp> {
         await SharedPreferenceHelper().saveUserEmail(mailController.text);
         await SharedPreferenceHelper().saveUserName(nameController.text);
         await SharedPreferenceHelper().saveUserId(Id);
-        await SharedPreferenceHelper().saveUserImage("https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+        await SharedPreferenceHelper().saveUserImage("https://cdn.vectorstock.com/i/1000x1000/75/30/smiling-avatar-boy-graphic-vector-9437530.webp");
 
         Map<String, dynamic> userInfoMap = {
           "Name": nameController.text,
           "Email": mailController.text,
           "Id": Id,
           "Image":
-              "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" // random image later
+              "https://cdn.vectorstock.com/i/1000x1000/75/30/smiling-avatar-boy-graphic-vector-9437530.webp"
         };
 
         await DatabaseMethods().addUserDetails(userInfoMap, Id);
@@ -84,7 +84,7 @@ class _SignUpState extends State<SignUp> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Image.asset(
-                  'images/boy.jpg',
+                  'images/login.png',
                 ),
                 Center(
                     child: Text(
@@ -196,7 +196,7 @@ class _SignUpState extends State<SignUp> {
                       width: MediaQuery.of(context).size.width / 2,
                       padding: EdgeInsets.all(18),
                       decoration: BoxDecoration(
-                          color: Colors.green,
+                          color: Color(0xFF1976D2),
                           borderRadius: BorderRadius.circular(10)),
                       child: Center(
                           child: Text('SIGN UP',
@@ -225,7 +225,7 @@ class _SignUpState extends State<SignUp> {
                         child: Text(
                           'Sign In',
                           style: TextStyle(
-                              color: Colors.green, fontWeight: FontWeight.w500),
+                              color: Colors.blue, fontWeight: FontWeight.w500),
                         )),
                   ],
                 )

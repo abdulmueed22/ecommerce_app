@@ -22,7 +22,7 @@ class _HomeState extends State<Home> {
     "images/TV.png"
   ];
 
-  List Categoryname = ["Headphone", "Laptop", "Watch", "TV"];
+  List Categoryname = ["Headphones", "Laptop", "Watch", "TV"];
 
   var queryResultSet = [];
   var tempSearchStore = [];

@@ -56,7 +56,7 @@ class _LoginState extends State<Login> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Image.asset(
-                  'images/boy.jpg',
+                  'images/login.png',
                 ),
                 Center(
                     child: Text(
@@ -135,7 +135,7 @@ class _LoginState extends State<Login> {
                     Text(
                       'Forgot Password?',
                       style: TextStyle(
-                          color: Colors.green, fontWeight: FontWeight.w500),
+                          color: Color(0xFF1976D2), fontWeight: FontWeight.w500),
                     ),
                   ],
                 ),
@@ -157,7 +157,7 @@ class _LoginState extends State<Login> {
                       width: MediaQuery.of(context).size.width / 2,
                       padding: EdgeInsets.all(18),
                       decoration: BoxDecoration(
-                          color: Colors.green,
+                          color: Color(0xFF1976D2),
                           borderRadius: BorderRadius.circular(10)),
                       child: Center(
                           child: Text('LOGIN',
@@ -188,7 +188,7 @@ class _LoginState extends State<Login> {
                         child: Text(
                           'Sign Up',
                           style: TextStyle(
-                              color: Colors.green, fontWeight: FontWeight.w500),
+                              color: Color(0xFF1976D2), fontWeight: FontWeight.w500),
                         )),
                   ],
                 )

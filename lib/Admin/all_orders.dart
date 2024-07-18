@@ -134,11 +134,14 @@ class _AllOrdersState extends State<AllOrders> {
                                             child: Center(
                                                 child: Text(
                                               "Done",
-                                              style: AppWidget
-                                                  .semiboldTextFeildStyle(),
+                                              style: TextStyle(
+                                                  color: Colors.white,
+                                                  fontSize: 20,
+                                                  fontWeight: FontWeight.bold)
                                             )),
                                           ),
-                                        )
+                                        ),
+                                        SizedBox(height: 5,)
                                       ],
                                     ),
                                   ),
