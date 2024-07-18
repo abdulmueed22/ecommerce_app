@@ -59,9 +59,8 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 - **Order Management:** View orders and update their status.
 - **Customer Interaction:** Customers can browse, search, and place orders. They can also manage their profiles and make secure payments.
 
-### Screenshots (Optimized for Mobile and Desktop)
+### Screenshots:
 
-#### Mobile Layout:
 <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
     <td style="text-align: center; width: 100%;">
@@ -79,6 +78,13 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
     <td style="text-align: center; width: 100%;">
       <strong>Product page:</strong><br>
       <img src="https://github.com/user-attachments/assets/ddbc9c2a-30c8-4b65-b6d6-d90cecaf9ab5" alt="Product page" width="200" height="400" />
+    </td>
+  </tr>
+   <img src="https://github.com/user-attachments/assets/fc008fd9-5dae-46cf-a4e0-99946f5bff06" alt="WhatsApp Image 2024-07-19 at 1 28 25 AM" width="200" height="400" />
+    <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Search Functionality:</strong><br>
+      <img src="https://github.com/user-attachments/assets/fc008fd9-5dae-46cf-a4e0-99946f5bff06" alt="WhatsApp Image 2024-07-19 at 1 28 25 AM" width="200" height="400" />
     </td>
   </tr>
   <tr>
