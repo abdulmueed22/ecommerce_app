@@ -85,7 +85,7 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 
 <img src="https://github.com/user-attachments/assets/afa69715-e300-4464-9b0c-954669f4eeb7" alt="Screenshot 2024-07-18-23-35-51-07_18dc463cf66cf9312960845e75316458" width="200" height="400" />
 
-**Ordered Products page:**
+**Current Orders page:**
 
 
 <img src="https://github.com/user-attachments/assets/c9bcff11-a38b-43af-b0ae-a0471cb43039" alt="WhatsApp Image 2024-07-18 at 11 41 24 PM (1)" width="200" height="400" />
@@ -94,6 +94,21 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 
 
 <img src="https://github.com/user-attachments/assets/92c60efe-ba9f-4c65-b0a4-a03459540d7b" alt="Screenshot 2024-07-18-23-34-51-02_18dc463cf66cf9312960845e75316458" width="200" height="400" />
+
+**Admin Dashboard:**
+
+
+<img src="https://github.com/user-attachments/assets/3c37cb68-adf1-4e46-b39f-d6a1bf27e031" alt="Screenshot 2024-07-18-23-38-55-07_18dc463cf66cf9312960845e75316458" width="200" height="400" />
+
+**Product Upload Page:**
+
+
+<img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Screenshot 2024-07-18-23-39-19-89_18dc463cf66cf9312960845e75316458" width="200" height="400" />
+
+**View Placed Orders Pages:**
+
+
+<img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Screenshot 2024-07-18-23-39-19-89_18dc463cf66cf9312960845e75316458" width="200" height="400" />
 
 
 ---
