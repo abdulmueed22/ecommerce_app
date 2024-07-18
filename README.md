@@ -76,7 +76,7 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
   </tr>
   <tr>
     <td style="text-align: center; width: 100%;">
-      <strong>Additional Screenshot:</strong><br>
+      <strong>Search Functionality:</strong><br>
       <img src="https://github.com/user-attachments/assets/fc008fd9-5dae-46cf-a4e0-99946f5bff06" alt="WhatsApp Image 2024-07-19 at 1 28 25 AM" width="200" height="400" />
     </td>
   </tr>
