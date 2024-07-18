@@ -59,58 +59,124 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 - **Order Management:** View orders and update their status.
 - **Customer Interaction:** Customers can browse, search, and place orders. They can also manage their profiles and make secure payments.
 
-### Screenshots
-**Onboarding page:**
+### Screenshots (Optimized for Mobile and Desktop)
 
+#### Mobile Layout (One Image Per Row)
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Onboarding page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/b6867589-9775-481f-8d5b-dacea02e00ea" alt="Onboarding page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Home page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/e1c4478b-c279-435c-8779-f9ec61fe7d59" alt="Home page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Product page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/ddbc9c2a-30c8-4b65-b6d6-d90cecaf9ab5" alt="Product page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Product detail page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/ddfce5c3-7737-4352-a8d6-0f8221cd6009" alt="Product detail page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Payment gateway:</strong><br>
+      <img src="https://github.com/user-attachments/assets/afa69715-e300-4464-9b0c-954669f4eeb7" alt="Payment gateway" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Current Orders page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/c9bcff11-a38b-43af-b0ae-a0471cb43039" alt="Current Orders page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Profile Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/92c60efe-ba9f-4c65-b0a4-a03459540d7b" alt="Profile Page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Admin Dashboard:</strong><br>
+      <img src="https://github.com/user-attachments/assets/3c37cb68-adf1-4e46-b39f-d6a1bf27e031" alt="Admin Dashboard" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>Product Upload Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Product Upload Page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      <strong>View Placed Orders Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/8ab12ee0-ce29-4c1f-a9ce-7428abb37438" alt="View Placed Orders Page" width="200" height="400" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/b6867589-9775-481f-8d5b-dacea02e00ea" alt="Screenshot 2024-07-18-23-38-16-66_18dc463cf66cf9312960845e75316458" width="200" height="400" />
+#### Desktop Layout (Four Images Per Row)
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <strong>Onboarding page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/b6867589-9775-481f-8d5b-dacea02e00ea" alt="Onboarding page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Home page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/e1c4478b-c279-435c-8779-f9ec61fe7d59" alt="Home page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Product page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/ddbc9c2a-30c8-4b65-b6d6-d90cecaf9ab5" alt="Product page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Product detail page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/ddfce5c3-7737-4352-a8d6-0f8221cd6009" alt="Product detail page" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <strong>Payment gateway:</strong><br>
+      <img src="https://github.com/user-attachments/assets/afa69715-e300-4464-9b0c-954669f4eeb7" alt="Payment gateway" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Current Orders page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/c9bcff11-a38b-43af-b0ae-a0471cb43039" alt="Current Orders page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Profile Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/92c60efe-ba9f-4c65-b0a4-a03459540d7b" alt="Profile Page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>Admin Dashboard:</strong><br>
+      <img src="https://github.com/user-attachments/assets/3c37cb68-adf1-4e46-b39f-d6a1bf27e031" alt="Admin Dashboard" width="200" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <strong>Product Upload Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Product Upload Page" width="200" height="400" />
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <strong>View Placed Orders Page:</strong><br>
+      <img src="https://github.com/user-attachments/assets/8ab12ee0-ce29-4c1f-a9ce-7428abb37438" alt="View Placed Orders Page" width="200" height="400" />
+    </td>
+    <td colspan="2" style="text-align: center; width: 50%;">
+      <!-- Empty cell for alignment -->
+    </td>
+  </tr>
+</table>
 
-**Home page:**
-
-<img src="https://github.com/user-attachments/assets/e1c4478b-c279-435c-8779-f9ec61fe7d59" alt="WhatsApp Image 2024-07-18 at 11 41 24 PM" width="200" height="400" />
-
-
-**Product page:**
-
-
-<img src="https://github.com/user-attachments/assets/ddbc9c2a-30c8-4b65-b6d6-d90cecaf9ab5" alt="Screenshot 2024-07-18-23-35-04-71_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**Product detail page:**
-
-
-<img src="https://github.com/user-attachments/assets/ddfce5c3-7737-4352-a8d6-0f8221cd6009" alt="Screenshot 2024-07-18-23-35-09-87_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**Payment gateway:**
-
-
-<img src="https://github.com/user-attachments/assets/afa69715-e300-4464-9b0c-954669f4eeb7" alt="Screenshot 2024-07-18-23-35-51-07_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**Current Orders page:**
-
-
-<img src="https://github.com/user-attachments/assets/c9bcff11-a38b-43af-b0ae-a0471cb43039" alt="WhatsApp Image 2024-07-18 at 11 41 24 PM (1)" width="200" height="400" />
-
-**Profile Page:**
-
-
-<img src="https://github.com/user-attachments/assets/92c60efe-ba9f-4c65-b0a4-a03459540d7b" alt="Screenshot 2024-07-18-23-34-51-02_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**Admin Dashboard:**
-
-
-<img src="https://github.com/user-attachments/assets/3c37cb68-adf1-4e46-b39f-d6a1bf27e031" alt="Screenshot 2024-07-18-23-38-55-07_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**Product Upload Page:**
-
-
-<img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Screenshot 2024-07-18-23-39-19-89_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-**View Placed Orders Pages:**
-
-
-<img src="https://github.com/user-attachments/assets/6f53f59d-00d7-462a-acf5-a9bfc1b6c28e" alt="Screenshot 2024-07-18-23-39-19-89_18dc463cf66cf9312960845e75316458" width="200" height="400" />
-
-
----
 
 Thank you for checking out my project! 🚀
