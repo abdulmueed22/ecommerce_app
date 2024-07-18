@@ -61,7 +61,7 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
 
 ### Screenshots (Optimized for Mobile and Desktop)
 
-#### Mobile Layout (One Image Per Row)
+#### Mobile Layout:
 <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
     <td style="text-align: center; width: 100%;">
@@ -125,7 +125,10 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
   </tr>
 </table>
 
-#### Desktop Layout (Four Images Per Row)
+</br>
+
+<!--
+#### Desktop Layout:
 <table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
     <td style="text-align: center; width: 25%;">
@@ -173,10 +176,10 @@ Welcome to my **E-Commerce App with Admin Panel** built using **Flutter** and **
       <img src="https://github.com/user-attachments/assets/8ab12ee0-ce29-4c1f-a9ce-7428abb37438" alt="View Placed Orders Page" width="200" height="400" />
     </td>
     <td colspan="2" style="text-align: center; width: 50%;">
-      <!-- Empty cell for alignment -->
+      <!-- Empty cell for alignment -- less than sign here
     </td>
   </tr>
 </table>
-
+-->
 
 Thank you for checking out my project! 🚀
